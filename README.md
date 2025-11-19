@@ -10,8 +10,8 @@
 ### 📌 What I’m Doing Right Now
 
 - 🌍 Based in: **Delhi , India**
-- 🚀 See my Work at <a href="https://app.netlify.com/teams/shivamcmd">
-- 📫 Reach me at: **shivamsharmaofficial09@gmail.com**
+- 🚀 See my work here: <a href="https://app.netlify.com/teams/shivamcmd" target="_blank">Portfolio Projects</a>
+- 📫 Reach me at: shivamsharmaofficial09@gmail.com
 - 💼 Currently Working on: **ATS Resume Buider**
 - ✏️ Learning some **PHP , Laravel**
 - 🎥 Passion for: **Filmmaking, Design & Storytelling**
@@ -35,7 +35,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind,bootstrap,figma,cpp" height="55" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind,figma,cpp" height="55" />
 </p>
 
 ---

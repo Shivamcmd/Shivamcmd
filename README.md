@@ -1,24 +1,7 @@
 <h2>
-  <span class="wave">👋</span> Hey! I'm Shivam Sharma
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" />
+  Hey! I'm Shivam Sharma
 </h2>
-
-<style>
-.wave {
-  animation: wave-animation 2.1s infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-}
-</style>
 
 
 ### 🎯 Web Developer | 🎬 Creative Tech Enthusiast | 🇮🇳 India

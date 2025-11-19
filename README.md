@@ -1,38 +1,49 @@
-<!-- Profile Header -->
-<div align="center">
+## 👋 Hey! I’m **Shivam Sharma**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shivam+Sharma!+👋;Web+Developer+%7C+Content+Creator+%7C+Creative+Tech+Lover+🚀;I+love+Building+Beautiful+Digital+Experiences+✨" alt="Typing SVG" />
+### 🎯 Web Developer | 🎬 Creative Tech Enthusiast | 🇮🇳 India
 
----
-
-🎬 *Where Creativity Meets Code*  
-🌍 Based in India | 🔥 Turning Ideas into Reality  
-
-</div>
+✨ I love building **creative** and **high-quality** digital experiences that blend  
+**Technology + Creativity** to make people go *"Wow!"* 😍  
 
 ---
 
-## 💡 About Me  
-✨ I’m passionate about building awesome Web Apps  
-🎥 Also love Filmmaking, Designing & Storytelling  
-📚 Always learning new tools & technologies  
-🧠 Strong focus on **UI, Creativity & User Experience**  
+### 📌 What I’m Doing Right Now
+
+- 🌍 Based in: **Delhi , India**
+- 🚀 See my Work at <a href="https://app.netlify.com/teams/shivamcmd">
+- 📫 Reach me at: **shivamsharmaofficial09@gmail.com**
+- 💼 Currently Working on: **ATS Resume Buider**
+- ✏️ Learning some **PHP , Laravel**
+- 🎥 Passion for: **Filmmaking, Design & Storytelling**
+- 🤝 Open to: **Collaboration on Cool Projects**
+
 
 ---
 
-## 🌐 Connect With Me
+### 🤝 Let’s Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-sharma-7b84a5195/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-<a href="https://github.com/Shivamcmd"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
+  <a href="https://www.linkedin.com/in/shivam-sharma-7b84a5195/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shivamcmd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
 
 ## 🛠️ Tech Toolbox
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind,bootstrap,figma,cpp" height="55" />
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shivam-sharma-7b84a5195/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
+<a href="https://github.com/Shivamcmd"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
 </p>
 
 ---

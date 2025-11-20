@@ -4,7 +4,7 @@
 </h2>
 
 
-### 🎯 Web Developer | 🎬 Creative Tech Enthusiast | 🇮🇳 India
+### 🖥️ Web Developer | 🎬 Creative Tech Enthusiast | 🇮🇳 India
 
 ✨ I love building **creative** and **high-quality** digital experiences that blend  
 **Technology + Creativity** to make people go *"Wow!"* 😍  
